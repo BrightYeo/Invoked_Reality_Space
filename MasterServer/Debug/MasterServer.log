@@ -1,0 +1,17 @@
+﻿빌드 시작: 2016-02-24 오후 7:59:15
+     1>2 노드의 "C:\Users\Administrator\Documents\Projects\MasterServer\MasterServer.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MasterServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MasterServerDlg.cpp
+         MasterServerDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Projects\MasterServer\\..\MasterServer.exe" /INCREMENTAL /NOLOGO C:\OpenCV2.1\lib\cv210.lib C:\OpenCV2.1\lib\cvaux210.lib C:\OpenCV2.1\lib\cxcore210.lib C:\OpenCV2.1\lib\highgui210.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Documents\Projects\MasterServer\\..\MasterServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Projects\MasterServer\\..\MasterServer.lib" /MACHINE:X86 Debug\MasterServer.res
+         Debug\IOCP.obj
+         Debug\MasterServer.obj
+         Debug\MasterServerDlg.obj
+         Debug\stdafx.obj
+         MasterServer.vcxproj -> C:\Users\Administrator\Documents\Projects\MasterServer\\..\MasterServer.exe
+     1>"C:\Users\Administrator\Documents\Projects\MasterServer\MasterServer.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.18
